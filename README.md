@@ -22,13 +22,13 @@ Dibuat untuk mempermudah player melakukan top up dan inject lewat Telegram.
 ![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.jpg?raw=true)
 
 # JPG
-![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.jpg?raw=true)
+![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-14-21-384_org.telegram.messenger.jpg?raw=true)
 
 # JPG
-![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.jpg?raw=true)
+![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-14-44-147_org.telegram.messenger.jpg?raw=true)
 
 # JPG
-![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.jpg?raw=true)
+![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-15-11-744_org.telegram.messenger.jpg?raw=true)
 
 ---
 📌 Kata kunci: Bot Telegram BUSSID, Bot TRUCKSID, Inject BUSSID, Inject TRUCKSID, Bot Game Android.
