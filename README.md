@@ -19,7 +19,8 @@ Dibuat untuk mempermudah player melakukan top up dan inject lewat Telegram.
 
 • SUPPORT UPDATE LATEST VERSION
 # JPG
-![alt text](https://github.com/Ryuuuinih/BussidTopUp/blob/main/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.png?raw=true)
+![Preview](assets/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.jpg)
+
 
 • SUPPORT UPDATE LATEST VERSION
 # JPG
