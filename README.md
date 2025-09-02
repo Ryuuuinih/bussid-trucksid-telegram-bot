@@ -14,7 +14,7 @@ Dibuat untuk mempermudah player melakukan top up dan inject lewat Telegram.
 - Hapus Akun
 - Instant Top Up Max 2 Miliar
 
-🔗 Coba sekarang di Telegram: [Klik di sini](https://t.me/NamaBotKamu)
+🔗 Coba sekarang di Telegram: [Klik di sini](https://t.me/TopUpBussidByRyuu_bot)
 
 ---
 📌 Kata kunci: Bot Telegram BUSSID, Bot TRUCKSID, Inject BUSSID, Inject TRUCKSID, Bot Game Android.
