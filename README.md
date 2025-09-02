@@ -19,6 +19,6 @@ Dibuat untuk mempermudah player melakukan top up dan inject lewat Telegram.
 
 • SUPPORT UPDATE LATEST VERSION
 # JPG
-![alt text](https://github.com/Ryuuuinih/BussidTopUp/blob/main/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.jpg?raw=true)
+![alt text](https://github.com/Ryuuuinih/bussid-trucksid-telegram-bot/blob/main/Screenshot_2025-09-02-21-13-45-094_org.telegram.messenger.jpg?raw=true)
 ---
 📌 Kata kunci: Bot Telegram BUSSID, Bot TRUCKSID, Inject BUSSID, Inject TRUCKSID, Bot Game Android.
